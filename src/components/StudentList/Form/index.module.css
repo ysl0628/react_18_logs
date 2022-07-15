@@ -1,0 +1,10 @@
+.Form input
+{
+    width: 60%;
+    height: 25px;
+}
+
+.Form select {
+    width: 80%;
+    height: 25px;
+}

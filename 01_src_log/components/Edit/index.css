@@ -1,0 +1,37 @@
+.edit{
+    background-color: #eae2b7;
+    padding: 10px;
+    margin-bottom: 16px;
+}
+
+.editItem{
+    height: 40px;
+    line-height: 40px;
+    display: flex;
+    flex-flow: row;
+    margin: 16px 0;
+}
+
+.editItem label{
+    text-align: center;
+    padding: 0 16px;
+}
+
+.editItem input{
+    flex: auto;
+}
+
+.editBtn{
+    text-align: center;
+}
+
+.editBtn button{
+    width: 120px;
+    height: 50px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    cursor: pointer;
+}

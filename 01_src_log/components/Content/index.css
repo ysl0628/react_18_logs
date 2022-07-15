@@ -1,0 +1,15 @@
+.content{
+    flex: auto;
+    text-align: center;
+    font-weight: bold;
+}
+
+.desc {
+    font-size: 16px;
+    color: #184B49;
+
+}
+
+.time{
+    color: #D62828;
+}

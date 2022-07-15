@@ -1,0 +1,36 @@
+table {
+    border-spacing: 0;
+    width: 100%;
+  }
+  tr {
+    text-align: center;
+  }
+  th {
+    padding: 10px;
+  }
+
+  table tbody tr {
+    font-size: 18px;
+  }
+
+  table tbody tr:nth-child(odd){
+    background-color: #eee;
+    font-size: 18px;
+  }
+  table thead {
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+  }
+  table thead th:first-child {
+    border-radius: 5px 0 0 0;
+    border: 1px solid blue;
+  }
+  table thead th:last-child {
+    border-radius: 0 5px 0 0;
+    border-right: 1px solid blue;
+  }
+  caption {
+      font-size: 30px;
+      padding: 20px 0;
+  }
